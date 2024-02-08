@@ -10,3 +10,9 @@
 - npx expo install expo-font @expo-google-fonts/inter
 - npm i clsx
 ```
+
+## Aula 02
+### Instalações
+```
+- npx i zustand 
+```
